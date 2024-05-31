@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "18009067147",
+    "project_id": "gowin1423",
+    "storage_bucket": "gowin1423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18009067147:android:f4c62e41bc8de4f0070e8e",
+        "android_client_info": {
+          "package_name": "com.AlToque.entregas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18009067147-k71ijdpip7nmmgegs5ub0uestj1ln0go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AlToque.entregas",
+            "certificate_hash": "0ab1c6a1d0d92431c8a53fbb456699fbed1f2898"
+          }
+        },
+        {
+          "client_id": "18009067147-tfm7pjl2qo6tgjt5aeb97rqv3g4acruf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_CPRUGfqd_dkxWiI8NagV5Y-LKmnA9yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18009067147-27ptifrjbjb4e68sq03urjnfho8f82cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+[yes] seguimiento por gps en repartidores
+[yes] abrir google maps con rutas
+[yes]gestionar notificaciones user atendido    
+[yes] realizar interfas gestion repartidor tamb de tienda
+[yes] marcar entregado departe los clientes
+[]revisar chat salida de (opcional)
+[yes]corregir tab de pedidos
+[]como recargar notificaciones
+[yes]analizar aseptar pedidos si tienes entregas pendientes..
+[yeees]analizar si usar cuentas en ves de notificaciones en liosta pedidos admin :V
+[-]añadir un aviso al cliente que le recuerde que confirme el producto

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<resources>
+    <string name = "app_name">Al Toque</string>
+    <string name = "facebook_app_id">642933173767357</string>
+    <string name = "fb_login_protocol_scheme">fb642933173767357</string>
+    <string name = "facebook_client_token">c1bf6fe46926e95bdd540c0915a8fdc9</string>
+</resources>
